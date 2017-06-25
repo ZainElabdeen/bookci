@@ -1,4 +1,4 @@
-This is the CodeIgniter-based sample code for PHP: Learn By Doing by Scott
+This is the CodeIgniter-based sample code for PHP: Learn By Coding by Scott
 Hughes.
 
 You can find the book itself on Amazon: https://www.amazon.com/dp/B06ZZWMKZL.
